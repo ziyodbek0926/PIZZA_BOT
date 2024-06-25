@@ -1,0 +1,17 @@
+{
+    "pepperoni": {
+        "name": "Pepperoni",
+        "description": "Mazali Pepperoni pizza.",
+        "image": "images/pepperoni.jpg"
+    },
+    "margherita": {
+        "name": "Margherita",
+        "description": "Yengil va mazali Margherita pizza.",
+        "image": "images/margherita.jpg"
+    },
+    "bavarian": {
+        "name": "Bavarian",
+        "description": "Klassik Bavarian pizza.",
+        "image": "images/bavarian.jpg"
+    }
+}
